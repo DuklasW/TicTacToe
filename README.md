@@ -1,2 +1,2 @@
 # TicTacToe
-Jest to gra napisana w języku C, w której gra się w kółko i krzyżyk.
+Jest to prosta gra napisana w języku C, w której gra się w kółko i krzyżyk.
